@@ -17,7 +17,7 @@ script.js - JavaScript file for interactions and animations.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/lazarev-clone.git
+git clone https://github.com/anuragPurohit6353/LAZAREV-Clone.git
 Navigate to the project directory:
 bash
 Copy code
